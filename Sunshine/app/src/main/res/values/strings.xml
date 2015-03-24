@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="fake_data">
+        <item>Today - Sunny - 88/63</item>
+        <item>Tomorrow - Cloudy - 76/53</item>
+        <item>Tuesday - Cloudy - 78/60</item>
+        <item>Wednesday - Rainy - 67/56</item>
+        <item>Thursday - Sunny - 75/62</item>
+    </string-array>
+</resources>
